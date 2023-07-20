@@ -20,7 +20,7 @@ Bachelor of Science: Computer Engineer | 2010–2014
 - Deployed custom Apps using helm charts and configuring to work with the existing platform services via GitOps.
 - Managed a team of four Engineers, including PTO requisitions, timecards, and yearly and regular performance evaluations and check-ins. Mentored two software engineers. And took part in technical assessment interviews to join the team.
 
-### Dev Ops Engineer | ASRC Federal Mission Solutions | May 2020 – June 2020
+### Dev Ops Engineer | SOLUTE US | May 2020 – Jan2021
 - Helped in deploying Openshift (DevOps Cluster Manager) installation and configuration using Ansible.
 - Containerized Development Jenkins Service, GitLab Service, and SonarQube Service.
 - Wrote Ansible roles to deploy the Jenkins, Bitbucket, and Confluence in Openshift to set up DevSecOps Environment.
